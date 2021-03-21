@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.myself {
+    width: 100%;
+    padding: 1rem 1rem;
+    display: block;
+    background: #2ecc71;
+    color: black;
+}
